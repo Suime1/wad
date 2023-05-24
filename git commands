@@ -1,5 +1,0 @@
-$ git init
-$ git add text.txt
-$ git commit -m "first commit"
-$ git remote add origin https://github.com/Suime1/wad.git
-$ git push -u origin main
